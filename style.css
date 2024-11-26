@@ -1,0 +1,65 @@
+body{
+    margin: 40px;
+    
+    
+}
+
+    
+
+header{     
+    height: 5%;
+    margin-top: 20px;
+    font-size: 140%;
+    display: flex;
+    justify-content: space-evenly; 
+    
+    
+}nav{
+    
+    height:50%;
+    width:100%;
+    margin-top: 30px;
+    margin-left: 55%;
+    border: 5%;
+    
+    
+    
+    
+
+
+}main{
+    color: white;
+    height:30%;
+    display: flex; 
+    margin-right: 60%;
+    flex-wrap: wrap;  
+    font-size: 300%;
+    
+    
+
+    
+}aside{
+    color: white;
+    height: 20%;
+    width:50%;
+    margin-left: 0%;
+    font-size: 250%;
+    
+
+
+}section{
+    
+    margin-top: 10px; 
+    color:white; 
+    border-radius: 1%;
+    
+    
+    
+    
+}footer{
+    height: 20%; 
+    width: 95%;
+    background-color: gray;
+
+
+}
